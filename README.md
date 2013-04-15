@@ -15,8 +15,11 @@ It's suggested that the source be available as well.
 *How do I install these packages*
 
 Get them from the deb's folder, or from the repository:
+
 http://repsitory.adonislinux.com/ main 
+
 http://repsitory.adonislinux.com/ testing
+
 
 If warranted, this will branch into it's own repostiory.
 
